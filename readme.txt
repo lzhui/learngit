@@ -6,5 +6,5 @@ third
 creating a new branch is quick and simple
 git commit -m "add merge"
 createing new
-
+fast
 
